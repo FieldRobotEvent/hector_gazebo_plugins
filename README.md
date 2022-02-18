@@ -1,4 +1,4 @@
-hector_gazebo
-=============
+# Hector Gazebo Plugins
+Package containing plugins for Gazebo sensors. Forked from [https://github.com/tu-darmstadt-ros-pkg/hector_gazebo](https://github.com/tu-darmstadt-ros-pkg/hector_gazebo).
 
-hector_gazebo provides packages related to the simulation of robots using gazebo (gazebo plugins, world files etc.).
+GPS sensor plugin is removed.
